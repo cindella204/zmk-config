@@ -28,8 +28,8 @@
 //                           | TAB | SPC | RSE |   | LWR | BKSP | ENTER |
                         bindings = <
    &mt LC(Z) LC(C) &kp EQUAL &kp Q &kp W &kp E &kp R &kp T         &kp Y  &kp U  &kp I  &kp O  &kp P  &kp MINUS &mt LC(LS(Z)) LC(V)
-            &kp CAPS &kp A &kp S &mt D LSHIFT  &kp F &kp G        &kp H   &kp J  &mt K LSHIFT &kp L &kp SQT &kp
-            &kp ESC &mt Z LALT &kp X &kp C &mt V LCTRL &kp B       &kp N &mt M CTRL  &kp COMMA &kp DOT &mt FSLH LALT &kp SEMI
+            &kp CAPS &kp A &kp S &mt D LSHIFT  &kp F &kp G        &kp H   &kp J  &mt K LSHIFT &kp L &kp SQT &kp RCTRL
+            &kp ESC &mt Z LALT &kp X &kp C &mt V LCTRL &kp B       &kp N &mt M LCTRL  &kp COMMA &kp DOT &mt FSLH LALT &kp SEMI
                          &lt LWR TAB &kp SPACE &tog RSE &tog LWR &kp BKSP &lt RSE ENTER
                         >;
                 };
